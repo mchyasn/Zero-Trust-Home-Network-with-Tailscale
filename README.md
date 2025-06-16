@@ -324,9 +324,7 @@ output "tailscale_device_private_ip" {
   value = aws_instance.tailscale_device.private_ip
 }
 ```
-   
-## Architecture Diagram
-(https://drive.google.com/file/d/1QAyhJDvTPpU5y9ej2RnRUiNORUA80jer/view?usp=sharing)
+
 
 ## Tailnet Information
 - Tailnet Name: taile16727.ts.net
